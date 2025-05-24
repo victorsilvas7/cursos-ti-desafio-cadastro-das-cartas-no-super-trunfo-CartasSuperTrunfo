@@ -89,4 +89,5 @@ printf("PIB: %f \n",pib2);
 printf("Número de pontos turiscos: %d \n",pontosturisticos2);
 
 return 0;
+
 }
